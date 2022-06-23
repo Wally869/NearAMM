@@ -41,6 +41,7 @@ You'll also need to run npm install to get dependencies.
 Once you have the sandbox running, you can run tests using "npm run test".  
 This will create accounts on the sandbox, deploy tokens and amm contracts, initialize the contracts, distribute tokens to users and run token transfers through the AMM.  
 
+Binaries are put in the sandbox-test/res folder.
 
 
 
