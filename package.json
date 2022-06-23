@@ -1,0 +1,15 @@
+{
+  "name": "amm",
+  "version": "1.0.0",
+  "description": "Implementing a simple 2 tokens AMM for Near in Rust. \r AMM follows the X * Y = K formula for pricing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node sandbox-test/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bn.js": "^5.2.1",
+    "near-api-js": "^0.45.1"
+  }
+}
